@@ -4,6 +4,7 @@ Currency converter microservice and test program
 ## Prerequisites ##
 
 Ensure you have Python and Flask installed. You can install Flask and the required dependencies using pip
+
 pip install Flask flask-cors requests
 
 ## Running the Microservice ##
@@ -18,7 +19,7 @@ URL: http://localhost:3001/convert
 Method: POST
 Content-Type: application/json
 
-## Request Format **
+## Request Format ##
 {
   "amounts": [price1, price2, price3, ...],
   "currency": "EUR"
