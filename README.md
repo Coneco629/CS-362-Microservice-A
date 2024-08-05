@@ -30,3 +30,4 @@ Content-Type: application/json
   "convertedAmounts": [converted_price1, converted_price2, converted_price3, ...]
 }
 
+![image](https://github.com/user-attachments/assets/5e31d889-e3e0-48ab-b346-25388b10230c)
